@@ -33,11 +33,11 @@
         },
         "productos": [
             {
-				"nombre": "Lorem Sofá Max",
+				"nombre": "Flores Artificiales",
 				"precio_anterior": "499.99",
 				"precio": "429.99",
 				"imagen": "./imagenes/producto-1.jpg",
-				"categoria": "Sofás"
+				"categoria": "Decoración"
 			},
 			{
 				"nombre": "Ipsum Mesa Central",
