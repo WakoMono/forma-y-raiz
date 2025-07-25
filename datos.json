@@ -40,53 +40,53 @@
 				"categoria": "Decoración"
 			},
 			{
-				"nombre": "Ipsum Mesa Central",
+				"nombre": "Deoración de Madera con Flor",
 				"precio_anterior": "299.99",
 				"precio": "249.99",
 				"imagen": "./imagenes/producto-2.jpg",
-				"categoria": "Mesas"
+				"categoria": "Decoración"
 			},
 			{
-				"nombre": "Dolor Silla Pro",
+				"nombre": "Cactus Artificial",
 				"precio_anterior": "89.99",
 				"precio": "74.99",
 				"imagen": "./imagenes/producto-3.jpg",
-				"categoria": "Sillas"
+				"categoria": "Decoración"
 			},
 			{
-				"nombre": "SitSofá Lounge",
+				"nombre": "Jarrón Azul de Ceramica",
 				"precio_anterior": "599.99",
 				"precio": "519.99",
 				"imagen": "./imagenes/producto-4.jpg",
-				"categoria": "Sofás"
+				"categoria": "Decoración"
 			},
 			{
-				"nombre": "Amet Mesa Extensible",
+				"nombre": "Mortero de Madera",
 				"precio_anterior": "399.99",
 				"precio": "349.99",
 				"imagen": "./imagenes/producto-5.jpg",
-				"categoria": "Mesas"
+				"categoria": "Decoración"
 			},
 			{
-				"nombre": "Elit Silla Nordic",
+				"nombre": "Silla Confort Madera",
 				"precio_anterior": "119.99",
 				"precio": "99.99",
 				"imagen": "./imagenes/producto-6.jpg",
 				"categoria": "Sillas"
 			},
 			{
-				"nombre": "Adipiscing Sofá Retro",
+				"nombre": "Jarron de Cristal",
 				"precio_anterior": "459.99",
 				"precio": "399.99",
 				"imagen": "./imagenes/producto-7.jpg",
-				"categoria": "Sofás"
+				"categoria": "Decoración"
 			},
 			{
-				"nombre": "Tempor Mesa Minimal",
+				"nombre": "Lámpara Minimalista",
 				"precio_anterior": "199.99",
 				"precio": "159.99",
 				"imagen": "./imagenes/producto-8.jpg",
-				"categoria": "Mesas"
+				"categoria": "Lámparas"
 			}
         ],
         "derechos_reservados": "Todos los derechos reservados Raíz & Forma 2025.",
